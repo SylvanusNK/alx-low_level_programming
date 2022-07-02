@@ -17,7 +17,7 @@ int main(void)
 		{
 			putchar(comma);
 		}
-		putchar('  ');
+		putchar(' ');
 		num++;
 	}
 	return (0);
