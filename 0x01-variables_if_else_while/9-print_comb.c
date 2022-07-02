@@ -1,7 +1,7 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 /**
- * main - Entry point
+ * main - prints combination of single digits
  * Return: Always 0 (success)
 */
 
@@ -17,8 +17,8 @@ int main(void)
 		{
 			putchar(comma);
 		}
-		putchar(' ');
-		num++;
+		puchar(' ');
+		num++
 	}
 	return (0);
 }
