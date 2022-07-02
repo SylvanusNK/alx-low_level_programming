@@ -7,6 +7,7 @@
 
 int main(void)
 {
+
 	int num = '0';
 	int comma = ',';
 
