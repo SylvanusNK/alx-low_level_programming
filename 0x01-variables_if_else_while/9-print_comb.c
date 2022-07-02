@@ -17,8 +17,8 @@ int main(void)
 		{
 			putchar(comma);
 		}
-		puchar(' ');
-		num++
+		putchar(' ');
+		num++;
 	}
 	return (0);
 }
