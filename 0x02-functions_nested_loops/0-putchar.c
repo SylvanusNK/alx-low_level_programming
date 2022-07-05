@@ -1,7 +1,6 @@
 #include "main.h"
-
 /**
-* main - this prints out _putchar on the screen
+* main - prints _putchar on the screen
 * Return: Always 0 (success)
 */
 
@@ -15,6 +14,7 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
+	_putchar(\n');
 
 	return (0);
 }
