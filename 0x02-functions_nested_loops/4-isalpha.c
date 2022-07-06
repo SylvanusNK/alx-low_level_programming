@@ -5,7 +5,7 @@
 * Return: return 0 if successful otherwise 1
 */
 
-int _isalpha(int type);
+int _isalpha(int type)
 {
 	if (type >= 'a' || type >= 'A' && type <= 'z' || type <= 'Z')
 	{
