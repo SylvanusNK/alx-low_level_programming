@@ -2,7 +2,7 @@
 /**
  * times_table -prints tables
  *
- * Return: Always 0.
+ * Return: Always 0 (success)
  */
 void times_table(void)
 {
