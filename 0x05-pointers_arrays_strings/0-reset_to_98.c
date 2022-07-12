@@ -6,7 +6,7 @@
 * Return: Always 0
 */
 
-void reset_to_98(int *n)
+void reset_to_98(int n)
 {
 	int n;
 	int *p;
@@ -14,9 +14,9 @@ void reset_to_98(int *n)
 	n = 402;
 	p = &n;
 
-	printf("The vaule of 'n': %d\n", n);
+	_putchar("The vaule of 'n': %d\n", n);
 	*p = 98;
-	printf("The valuen of 'n': %d\n", n);
+	_putchar("The valuen of 'n': %d\n", n);
 
 	return (0);
 }
