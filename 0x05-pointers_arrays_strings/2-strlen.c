@@ -15,5 +15,5 @@ if (s)
 while (*(s + len));
 ++len;
 }
-return (len):
+return (len);
 }
