@@ -31,4 +31,3 @@ putchar(sum);
 return (0);
 
 }
-Footer
