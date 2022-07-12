@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-* _puts - to print strings on the stdout
-* @str: string to be printed out
-* Return: void
-*/
+ * _puts - print a string, followed by a new line
+ * @str: the string to print
+ * Return: void
+ */
 
 void _puts(char *str)
 {
@@ -13,5 +13,4 @@ if (str)
 while (*str)
 _putchar(*str++);
 _putchar('\n');
-}
 }
