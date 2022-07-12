@@ -6,17 +6,10 @@
 * Return: Always 0
 */
 
-void reset_to_98(int n)
+void reset_to_98(int *n)
 {
 	int n;
-	int *p;
+	if (n)
+	*n = 98;
 
-	n = 402;
-	p = &n;
-
-	_putchar("The vaule of 'n': %d\n", n);
-	*p = 98;
-	_putchar("The valuen of 'n': %d\n", n);
-
-	return (0);
 }
