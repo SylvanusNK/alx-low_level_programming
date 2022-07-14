@@ -23,5 +23,5 @@ char *cap_string(char *x)
 		}
 		a++;
 	}
-	return (b);
+	return (x);
 }
