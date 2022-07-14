@@ -5,6 +5,7 @@
 * _strncat - function that cocatenates strings with n bytes
 * @dest: first parameter
 * @src: second parameter
+* @n: byte size
 * Return: dest string
 */
 
