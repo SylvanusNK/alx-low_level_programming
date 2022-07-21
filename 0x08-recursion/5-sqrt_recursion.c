@@ -12,7 +12,7 @@ int _sqrt_recursion(int n)
 	return (_sqrt(n, 1));
 }
 
-/** 
+/**
 * _sqrt - the recursive sqrt function
 * @n: given number
 * @i: the iterator
