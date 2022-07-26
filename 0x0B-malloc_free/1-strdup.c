@@ -3,7 +3,7 @@
 #include <stddef.h>
 
 /**
- * _strdup - a funtion that creates a pointer to a new string which is a duplicate of the string str
+ * _strdup - a pointer to a new string which is a duplicate of the string str
  * @str: string to copy
  * Return: a pointer to the array, or NULL if it fails
  */
