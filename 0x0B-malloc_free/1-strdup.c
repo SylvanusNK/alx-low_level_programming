@@ -1,9 +1,10 @@
 #include "main.h"
+#include <stdlib.h>
+#include <stddef.h>
 
 /**
- * _strdup -pointer to a new string which is a duplicate of the string str
+ * _strdup - a funtion that creates a pointer to a new string which is a duplicate of the string str
  * @str: string to copy
- *
  * Return: a pointer to the array, or NULL if it fails
  */
 char *_strdup(char *str)
