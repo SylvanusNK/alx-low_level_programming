@@ -8,6 +8,6 @@
 
 int main(void)
 {
-	("File :%s\n", __FIL printfE__);
+	("File :%s\n", __FILE__);
 	return (0);
 }
