@@ -5,7 +5,7 @@
 * struct dog - creates a struc dog for name age and owner
 * @name: pointer to name of the dog
 * @age: age of dog
-* @onwer: pointer to the gog owner
+* @owner: pointer to the gog owner
 * Return: void
 */
 struct dog
