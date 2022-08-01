@@ -1,5 +1,5 @@
-#include "dog.h"
-#include <stdio.h>
+#ifndef _DOG_H_
+#define _DOG_H_
 
 /**
 * main - creates a struc dog for name age and owner
