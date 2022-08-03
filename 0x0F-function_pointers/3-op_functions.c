@@ -25,7 +25,7 @@ int op_sub(int a, int b)
 }
 
 /**
-  * op_mul - funtion that multiplies 
+  * op_mul - funtion that multiplies
   * @a: 1st param
   * @b: 2nd param
   * Return: integer
