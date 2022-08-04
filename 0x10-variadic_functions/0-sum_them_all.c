@@ -6,7 +6,7 @@
 * Return: sum of numbers
 */
 
-int sum_them_all(const unsigned int n, ...);
+int sum_them_all(const unsigned int n, ...)
 {
 	unsigned int i;
 	int sum = 0;
