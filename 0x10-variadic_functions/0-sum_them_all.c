@@ -4,7 +4,6 @@
 * sum_them_all - a function that prints sum of its params
 * @n: numbers to be summed
 * Return: sum of numbers
-*
 */
 
 int sum_them_all(const unsigned int n, ...);
